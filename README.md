@@ -8,4 +8,6 @@ Run The Cypress Test:
 
 `Deployed Link`:https://sunny-rabanadas-ad5ee3.netlify.app/
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3d627f65-cce7-4299-9077-5c45c077adea)
+
+
